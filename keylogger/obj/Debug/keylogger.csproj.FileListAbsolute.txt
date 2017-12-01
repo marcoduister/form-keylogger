@@ -38,3 +38,24 @@ C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\obj\Debug\ke
 C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\obj\Debug\keylogger.csproj.CoreCompileInputs.cache
 C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\obj\Debug\keylogger.exe
 C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\obj\Debug\keylogger.pdb
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\keylogger.exe.config
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\keylogger.exe
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\keylogger.pdb
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\HotKeyAPI.dll
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\KeystrokeAPI.dll
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\MegaApiClient.dll
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\System.Net.Http.dll
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\MegaApiClient.xml
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\obj\Debug\keylogger.csprojResolveAssemblyReference.cache
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\obj\Debug\keylogger.Properties.Resources.resources
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\obj\Debug\keylogger.Settings.resources
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\obj\Debug\keylogger.csproj.GenerateResource.Cache
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\obj\Debug\keylogger.csproj.CoreCompileInputs.cache
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\obj\Debug\keylogger.exe
+C:\Users\marco\Source\Repos\from-keylogger\keylogger\obj\Debug\keylogger.pdb
