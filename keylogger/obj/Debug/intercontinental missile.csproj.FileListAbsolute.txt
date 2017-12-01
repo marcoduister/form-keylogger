@@ -1,0 +1,21 @@
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\intercontinental missile.csprojResolveAssemblyReference.cache
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\intercontinental_missile.Properties.Resources.resources
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\intercontinental missile.csproj.GenerateResource.Cache
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\intercontinental missile.csproj.CoreCompileInputs.cache
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\intercontinental missile.exe.config
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\intercontinental missile.exe
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\intercontinental missile.pdb
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\KeystrokeAPI.dll
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\MegaApiClient.dll
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\Newtonsoft.Json.dll
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\System.Net.Http.dll
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\MegaApiClient.xml
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\Newtonsoft.Json.xml
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\intercontinental missile.exe
+c:\users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\intercontinental missile.pdb
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\intercontinental_missile.Settings.resources
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\HotKeyAPI.dll

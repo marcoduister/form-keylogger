@@ -1,0 +1,40 @@
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\intercontinental missile.exe.config
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\intercontinental missile.exe
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\intercontinental missile.pdb
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\HotKeyAPI.dll
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\KeystrokeAPI.dll
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\MegaApiClient.dll
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\System.Net.Http.dll
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\MegaApiClient.xml
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\intercontinental_missile.Properties.Resources.resources
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\keylogger.Settings.resources
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\keylogger.csproj.GenerateResource.Cache
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\keylogger.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\intercontinental missile.exe
+C:\Users\marco\source\repos\intercontinental missile\intercontinental missile\obj\Debug\intercontinental missile.pdb
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\keylogger.exe.config
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\keylogger.exe
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\keylogger.pdb
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\HotKeyAPI.dll
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\KeystrokeAPI.dll
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\MegaApiClient.dll
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\System.Net.Http.dll
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\MegaApiClient.xml
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\obj\Debug\keylogger.Properties.Resources.resources
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\obj\Debug\keylogger.Settings.resources
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\obj\Debug\keylogger.csproj.GenerateResource.Cache
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\obj\Debug\keylogger.csproj.CoreCompileInputs.cache
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\obj\Debug\keylogger.exe
+C:\Users\marco\Source\Repos\from-keylogger\intercontinental missile\obj\Debug\keylogger.pdb
